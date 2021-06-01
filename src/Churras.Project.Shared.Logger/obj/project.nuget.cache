@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYzd5MIxxSJoqopg8DI9IL8qFCqaLuSEvA6IKMzsMkIlUEmtFxamFyrpTjZF+9Aprevh21HO//tjXx1bfnWJKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trabalho\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Trabalho\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Trabalho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Trabalho\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

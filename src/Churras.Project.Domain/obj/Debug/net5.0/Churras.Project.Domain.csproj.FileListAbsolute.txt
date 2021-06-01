@@ -1,0 +1,15 @@
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\Churras.Project.Domain.deps.json
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\Churras.Project.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\ref\Churras.Project.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\Churras.Project.Domain.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\Churras.Project.Shared.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\bin\Debug\net5.0\Churras.Project.Shared.Domain.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.AssemblyInfoInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.AssemblyInfo.cs
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.csproj.CopyComplete
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\ref\Churras.Project.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Domain\obj\Debug\net5.0\Churras.Project.Domain.csproj.AssemblyReference.cache

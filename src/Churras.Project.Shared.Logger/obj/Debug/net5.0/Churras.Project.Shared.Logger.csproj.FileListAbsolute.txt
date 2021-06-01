@@ -1,0 +1,12 @@
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\bin\Debug\net5.0\Churras.Project.Shared.Logger.deps.json
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\bin\Debug\net5.0\Churras.Project.Shared.Logger.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\bin\Debug\net5.0\ref\Churras.Project.Shared.Logger.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\bin\Debug\net5.0\Churras.Project.Shared.Logger.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.AssemblyInfoInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.AssemblyInfo.cs
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\ref\Churras.Project.Shared.Logger.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Shared.Logger\obj\Debug\net5.0\Churras.Project.Shared.Logger.csproj.AssemblyReference.cache

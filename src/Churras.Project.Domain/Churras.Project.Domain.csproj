@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Queries\v1\BuscarChurrascos\" />
+    <Folder Include="Queries\v1\BuscarChurrasco\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Churras.Project.Shared.Domain\Churras.Project.Shared.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

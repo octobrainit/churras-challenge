@@ -1,0 +1,448 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.API\\Churras.Project.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.API\\Churras.Project.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.API\\Churras.Project.API.csproj",
+        "projectName": "Churras.Project.API",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.API\\Churras.Project.API.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\Churras.Project.Db.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\Churras.Project.Db.csproj"
+              },
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\Churras.Project.Domain.Test.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\Churras.Project.Domain.Test.csproj"
+              },
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj"
+              },
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj"
+              },
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\Churras.Project.Db.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\Churras.Project.Db.csproj",
+        "projectName": "Churras.Project.Db",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\Churras.Project.Db.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Db\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj"
+              },
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\Churras.Project.Domain.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\Churras.Project.Domain.Test.csproj",
+        "projectName": "Churras.Project.Domain.Test",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\Churras.Project.Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj",
+        "projectName": "Churras.Project.Domain",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\Churras.Project.Domain.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj",
+        "projectName": "Churras.Project.Shared.Domain",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\Churras.Project.Shared.Domain.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj",
+        "projectName": "Churras.Project.Shared.Logger",
+        "projectPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\Churras.Project.Shared.Logger.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\source\\repos\\ChurrasProject\\src\\Churras.Project.Shared.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

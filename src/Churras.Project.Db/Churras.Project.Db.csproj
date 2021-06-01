@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Churras.Project.Domain\Churras.Project.Domain.csproj" />
+    <ProjectReference Include="..\Churras.Project.Shared.Domain\Churras.Project.Shared.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

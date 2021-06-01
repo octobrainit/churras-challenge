@@ -1,0 +1,17 @@
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Db.deps.json
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Db.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\ref\Churras.Project.Db.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Db.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.AssemblyInfoInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.AssemblyInfo.cs
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\ref\Churras.Project.Db.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Shared.Domain.dll
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Domain.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\bin\Debug\net5.0\Churras.Project.Shared.Domain.pdb
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.csproj.CopyComplete
+C:\Users\Trabalho\source\repos\ChurrasProject\src\Churras.Project.Db\obj\Debug\net5.0\Churras.Project.Db.csproj.AssemblyReference.cache
